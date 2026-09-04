@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 Hi, I'm  Abir Hasan<br>### 💻 Aspiring Full-Stack Web Developer | 🌱 Currently Learning<br><br>I'm a beginner web developer passionate about building websites and web applications.<br>I'm currently learning modern web development step by step and improving my problem-solving and coding skills every day.<br>---<br><br>## 🚀 About Me<br>- 🎓 Student of Computer Science & Technology (CSC)<br>- 🇧🇩 From Bangladesh<br>- 🌱 Currently learning Web Development<br>- 💻 Learning HTML, CSS, and JavaScript<br>- 🐍 Exploring Python Programming<br>- 🔗 Learning Git and GitHub<br>- ⚡ Interested in building real-world projects<br>- 📚 Continuously improving my programming and problem-solving skills<br>- 🎯 Goal: Become a skilled Software Engineer<br>---<br><br>### 💻 Frontend<br><br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)<br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)<br><br><br>### ⚙️ Backend<br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br><br>### 🗄️ Databases<br>![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)<br><br>### 🔧 Tools<br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)<br>![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)<br>---<br><br>## 📚 Currently Learning<br><br>text<br>HTML & CSS<br>     ↓<br>JavaScript<br>     ↓<br>Python<br>     ↓<br>Git & GitHub<br>     ↓<br>Web Development<br>     ↓<br>Real-World Projects 🚀<br><br>I'm focusing on understanding the fundamentals first and then applying them by building projects.<br>---<br><br>## 🔥 GitHub Streak<br><br><p align="center"><br>  <img src="https://streak-stats.demolab.com?user=mohammadmuqtadialsaadi-alt&theme=tokyonight&hide_border=true" /><br></p><br><br>---<br><br>## 🎯 My Goals<br><br>text<br>☑️ Learn JavaScript deeply<br>☑️ Learn TypeScript<br>☑️ Build projects with React<br>☐ Master Node.js & Express.js<br>☐ Work with MongoDB & PostgreSQL<br>☐ Build REST APIs<br>☐ Learn Next.js<br>☐ Build complete full-stack applications<br>☐ Improve problem-solving skills<br>☐ Become a professional Full-Stack Developer<br>```<br><br>---<br><br>🤝 Connect With Me<br><br><p align="center">  <a href="https://github.com/abirhasan_319"><br>    <img src="https://img.shields.io/badge/GitHub-abirhasan__319-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/><br>  </a>  <a href="mailto:eropvkcarhkbcgj@gmail.com"><br>    <img src="https://img.shields.io/badge/Gmail-eropvkcarhkbcgj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/><br>  </a>  <a href="https://www.facebook.com/share/19RZ37VWME/"><br>    <img src="https://img.shields.io/badge/Facebook-abirhasan25319F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/><br>  </a>  <a href="https://www.instagram.com/abirhasan_319"><br>    <img src="https://img.shields.io/badge/Instagram-abirhasan__319-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/><br>  </a>  <br/>  <a href="https://x.com/abirhasan_319"><br>    <img src="https://img.shields.io/badge/X-abirhasan__319-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/><br>  </a>  <a href="https://www.tiktok.com/@abirhasan_319"><br>    <img src="https://img.shields.io/badge/TikTok-abirhasan__319-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/><br>  </a>  <a href="https://t.me/abirhasan_319"><br>    <img src="https://img.shields.io/badge/Telegram-abirhasan__319-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/><br>  </a>  <a href="https://pin.it/5Lllke2vD"><br>    <img src="https://img.shields.io/badge/Pinterest-abirhasan_319-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/><br>  </a></p><br>---<br><br>## 💡 Developer Mindset<br><br>> *Learn → Build → Break → Debug → Improve → Repeat.*<br><br>I'm still at the beginning of my journey, but I'm committed to learning consistently, building real projects, and becoming a better developer every day.<br><br>---<br><br>### ⭐ Thanks for visiting my profile!<br><br>If you find any of my projects useful, feel free to ⭐ the repository.<br><br>*Happy Coding! 🚀*<br><br>
 
-<!--
-**abirhasan319/abirhasan319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=abirhasan319&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=abirhasan319&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abirhasan319&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-Here are some ideas to get you started:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abirhasan319&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=abirhasan319&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=abirhasan319&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
